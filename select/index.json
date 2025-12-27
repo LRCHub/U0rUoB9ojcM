@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "届かない星だとしても",
+  "base_artist": "Aqours",
+  "createdAt": "2025-12-27T16:37:07.746738Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "届かない星だとしても",
+      "artist": "Aqours",
+      "has_synced": true,
+      "path": "select/01_届かない星だとしても_Aqours.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "届かない星だとしても",
+      "artist": "Aqours",
+      "has_synced": false,
+      "path": "select/pl_01_届かない星だとしても_Aqours.txt"
+    }
+  ]
+}
